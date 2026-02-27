@@ -47,7 +47,8 @@ Plan for roughly 8–12 hours per week. Consistency matters more than speed. Som
 **Plant biology and cell science:**
 
 - **Botany in a Day** (Thomas Elpel) — Approachable intro to plant families and structure.
-- **MIT OpenCourseWare 7.013** — Introductory Biology. Free lectures covering cell biology fundamentals.
+- **[MIT OCW 7.016](https://ocw.mit.edu/courses/7-016-introductory-biology-fall-2018/)** — Introductory Biology (Fall 2018). Free lectures covering biochemistry, molecular genetics, and cell biology with a focus on 21st-century molecular tools — most directly relevant to CRISPR and gene regulation work.
+  - Also consider **[7.014](https://ocw.mit.edu/courses/7-014-introductory-biology-spring-2005/)** as a companion course: its distinctive focus on Earth carbon/nitrogen cycles and microbes as geochemical agents maps directly onto carbon fixation research.
 - **Khan Academy Biology** — Cell structure, photosynthesis, DNA basics. Excellent visual explanations.
 - **Life in the Light** (photosynthesis chapters in any plant physiology textbook) — Taiz & Zeiger's *Plant Physiology* is the gold standard; older editions are cheap used.
 
